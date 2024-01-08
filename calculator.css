@@ -1,0 +1,32 @@
+
+body{
+  background:black;
+  font-family:arial;
+}
+.number-button{
+  background:rgb(64, 64, 64);
+  color:white;
+  border:none;
+  width:60px;
+  height:60px;
+  border-radius:33px;
+  font-size:20px;
+  margin-right:5px;
+  cursor:pointer;
+}
+.method-button{
+  background:rgb(255, 162, 0);
+  color:white;
+  width:60px;
+  height:60px;
+  border:none;
+  border-radius:40px;
+  font-size:20px;
+  font-weight:bold;
+  margin-right:5px;
+  cursor:pointer;
+ }
+ .result{
+  color:white;
+  font-size:30px;
+ }
